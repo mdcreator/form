@@ -1,13 +1,17 @@
 {
-  "homepage": "https://mdcreator.github.io/goit-react-hw-09-feedback-hooks",
+  "homepage": "https://mdcreator.github.io/form",
   "name": "create-react-app-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.0.4",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
     "gh-pages": "^3.1.0",
+    "material-ui": "^0.20.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
